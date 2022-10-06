@@ -73,3 +73,19 @@ button {
     padding: 8px 35px;
     
 }
+
+.big-box {
+    display: flex;
+    justify-content: space-around;
+}
+
+.small-box {
+   max-width: 150px;
+}
+
+.mini-box {
+    height: 150px;
+    width: 150px;
+    border: 5px solid #3882F6;
+    border-radius: 20px;
+}
