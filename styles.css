@@ -41,8 +41,11 @@ a {
 .head-container div {
     display: flex;
     flex-direction: column;
-    width: 400px;
-    height: 200px;
+    width: 450px;
+    height: 220px;
+    justify-content: space-between;
+    align-items: flex-start;
+    font-size:18px;
 }
 
 .head-container h1 {
@@ -63,8 +66,10 @@ button {
     color:#F9FAF8;
     background-color: #3882F6;
     font-weight: 700;
-    border-radius: 5px;
-    width: 140px;
+    /* height: 25px; */
+    border-radius: 8px;
+    /* width: 100px; */
     border: #3882F6;
-    padding: 5px 20px;
+    padding: 8px 35px;
+    
 }
