@@ -13,7 +13,7 @@ header {
     color: #F9FAF8;
     font-size: 24px;
     align-items: center;
-    padding: 20px 15rem;
+    padding: 20px 215px;
 }
 
 ul {
@@ -32,7 +32,7 @@ a {
 
 .head-container {
     display: flex;
-    padding: 5rem 15rem 9rem 15rem;
+    padding: 80px 215px 145px 215px;
     background-color: #1F2937;
     color: #E5E7EB ;
     justify-content: space-between;
