@@ -4,6 +4,7 @@ body {
     flex-direction: column;
     height: 100vh;
     margin: 0;
+    text-align: center;
 }
 
 header {
@@ -46,6 +47,7 @@ a {
     justify-content: space-between;
     align-items: flex-start;
     font-size:18px;
+    text-align: start;
 }
 
 .head-container h1 {
