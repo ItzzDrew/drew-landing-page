@@ -76,6 +76,13 @@ button {
     
 }
 
+.title {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    padding: 50px 0px;
+}
+
 .big-box {
     display: flex;
     justify-content: space-around;
