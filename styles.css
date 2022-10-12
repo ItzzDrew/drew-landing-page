@@ -105,3 +105,17 @@ button {
     border: 5px solid #3882F6;
     border-radius: 20px;
 }
+
+.quote-container{
+    display: flex;
+    background-color: #E5E7EB;
+    font-size: 36px;
+    color: #1F2937;
+    flex-direction: column;
+    font-weight: 300; 
+    font-style: italic;
+    text-align: justify;
+    padding: 130px 250px 100px 300px;
+    /* justify-content: center;
+    align-items: center; */
+}
