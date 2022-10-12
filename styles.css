@@ -126,3 +126,8 @@ button {
     text-align: end;
     font-style: normal;
 }
+
+.text-container { 
+    display: flex;
+    background-color: #3882F6;
+}
