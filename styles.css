@@ -122,7 +122,7 @@ button {
     font-weight: 300; 
     font-style: italic;
     text-align: start;
-    padding: 130px 250px 100px 300px;
+    padding: 130px 305px 100px 350px;
     /* justify-content: center;
     align-items: center; */
 }
@@ -136,5 +136,31 @@ button {
 
 .text-container { 
     display: flex;
+    /* background-color: #3882F6; */
+    padding: 80px 215px;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue-text {
     background-color: #3882F6;
+    padding: 50px 80px;
+    width: 100%;
+    border-radius: 8px;
+    color: #E5E7EB;
+    font-weight: 300;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+ }
+
+.call-title {
+    font-weight: 500;
+    font-size: 24px;
+    color: #F9FAF8;
+    text-align: start;
+ }
+
+.call-button {
+    border:2px solid #F9FAF8;
 }
